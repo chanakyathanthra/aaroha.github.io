@@ -1,0 +1,620 @@
+﻿handleId,fieldType,name,description,productImageUrl,collection,sku,ribbon,price,surcharge,visible,discountMode,discountValue,inventory,weight,cost,productOptionName1,productOptionType1,productOptionDescription1,productOptionName2,productOptionType2,productOptionDescription2,productOptionName3,productOptionType3,productOptionDescription3,productOptionName4,productOptionType4,productOptionDescription4,productOptionName5,productOptionType5,productOptionDescription5,productOptionName6,productOptionType6,productOptionDescription6,additionalInfoTitle1,additionalInfoDescription1,additionalInfoTitle2,additionalInfoDescription2,additionalInfoTitle3,additionalInfoDescription3,additionalInfoTitle4,additionalInfoDescription4,additionalInfoTitle5,additionalInfoDescription5,additionalInfoTitle6,additionalInfoDescription6,customTextField1,customTextCharLimit1,customTextMandatory1,customTextField2,customTextCharLimit2,customTextMandatory2,brand
+product_049f8df0-2732-f833-a82c-bba104bda6cc,Product,Aaroha Herbal Bath Powder,"<p>Herbal Bath Powder is a natural blend of herbs and botanicals designed to enhance your bathing experience. Crafted with a mix of aromatic plants, it offers a rejuvenating and soothing effect on the skin. Perfect for promoting relaxation and nourishing the skin, this herbal bath powder is a delightful addition to your self-care routine</p>",659744_08532ad7099d4256bbe0ca1ede6b932d~mv2.jpeg,,,,100.0,,true,PERCENT,0.0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_1de3002c-d396-e336-60ad-76d6605b8a56,Product,Wild Cambogia,"<p>Garcinia cambogia is globally renowned for its health benefits, including weight loss support, increased metabolism, energy boost, stress reduction, and cholesterol regulation. Notably, it optimizes cholesterol balance by lowering LDL (bad) cholesterol and elevating HDL (good) cholesterol, reducing the risk of heart-related issues and boosting energy levels.</p>",659744_48cb0f6652de47369e240c06262e3c48~mv2.webp,,,,55.0,,true,PERCENT,0.0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_a9d851b7-2c94-9da4-20af-7b8f4c85ff21,Product,Shikakai,"<p>Shikakai, derived from the Acacia concinna plant, is a natural hair care ingredient widely used in Ayurveda. It serves as a mild cleanser, detangler, and conditioner. Shikakai is known for promoting hair health, adding shine, and maintaining a balanced scalp. It is often used in powder form, mixed with water to create a nourishing hair cleanser.</p>",659744_7e3f30a9c3a34ef2a24298984dc8a90e~mv2.jpg,,,,100.0,,true,PERCENT,0.0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_408307a8-75a7-0641-5903-66e60bc16b85,Product,Reetha Powder,"<p>Reetha powder, derived from soapnut fruit, is a natural and mild cleanser used in hair care. It cleanses, removes excess oil, and is a gentle alternative to commercial shampoos. It also contributes to natural shine, improved texture, and may have antifungal properties for scalp health. Simply mix with water to form a paste for application</p>",659744_4b8ce4a6d74348a597870eef8faf4971~mv2.png,,,New Arrival,60.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_8beba041-1d13-696c-5cc4-c10dd6a0f0fa,Product,Vacha,"<p>Vacha, also known as Acorus calamus or sweet flag, is an herb commonly used in traditional medicine systems such as Ayurveda. It is known for its aromatic rhizomes, which are used in various herbal preparations. In Ayurveda, Vacha is believed to have cognitive-enhancing properties and is used to support mental clarity and focus.</p>",659744_37e0d5ca9db74e1793e6c8658252a451~mv2.webp,,,New Arrival,75.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_39a1a093-eaae-c761-7dee-eeb645fdcbba,Product,Rose Petal Powder,"<p>Elevate your skincare and wellness routine with our Rose Petal Powder. Carefully crafted from high-quality rose petals, this powder offers a natural and fragrant solution for various beauty and health applications. Unleash the soothing and rejuvenating benefits of roses</p>",659744_a6aa1d301d6f461e8a0a487c0ec80047~mv2.jpg,,,New Arrival,200.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_73a37f52-1046-9506-72e5-f377f0ffc0e4,Product,Nadan Sharkkara,"<p>Nadan Sharkkara captures the essence of traditional Kerala sweetness. Our premium jaggery, rich in flavor and authenticity, is a true reflection of the region's culinary heritage. Indulge in the natural sweetness of Nadan Sharkkara, a delightful treat that brings the taste of Kerala to every palate.""</p>",659744_8af9a04ac2084d4aac0a3907c2268af4~mv2.jpg,,,New Arrival,200.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_193ce061-3a1e-4e52-489c-03364b59333b,Product,Nadan Unda Sharkkara Premium,"<p>Introducing Nadan Unda Sharkkara Premium, a delectable treat that encapsulates the authentic flavors of traditional Kerala cuisine. These premium jaggery-coated balls, or 'Unda Sharkkara,' are crafted with care, providing a delightful fusion of sweetness and cultural richness. Savor the essence of Kerala with every bite, as this premium treat promises a unique and satisfying culinary experience</p>",659744_11fffbb3fbf84356996245c8a6f1f808~mv2.jpg,,,New Arrival,230.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_bcef6368-b97f-6f34-c40f-0212378c5537,Product,Unprocessed Stingless Bee Forest Honey,"<p>Immerse yourself in the pure sweetness of nature with our Unprocessed Stingless Bee Forest Honey. Carefully harvested from pristine forests, this honey is a true embodiment of untouched purity. Delight in its rich taste and unique characteristics, as it captures the essence of the wild, offering you a genuine and unprocessed honey experience</p>",659744_9f183436b39e429eaedf34e8f1b4f88b~mv2.jpg,,,New Arrival,330.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_677f1358-b9be-e371-e810-d0d1bc6049d4,Product,Strong Tea Powder,"<p>Indulge in the robust flavor of our Strong Tea Powder. Specially crafted for tea enthusiasts seeking a bold and invigorating experience, our blend combines premium tea leaves to deliver a robust and full-bodied cup. Elevate your tea ritual with the intense taste and energizing aroma of our Strong Tea Powder</p>",659744_9f3f134e4c4d4cf98edc77a3ae309e36~mv2.webp,,,New Arrival,210.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_aa54f6e1-74fa-21af-16fc-681e964d2678,Product,copy of Aaroha Natural Pure Cow Ghee,"<p>Experience the goodness of our Natural Pure Cow Ghee, a golden elixir of purity and flavor. Crafted from the finest quality cow's milk, our ghee is a testament to traditional excellence. Its rich, nutty aroma and smooth texture make it a versatile and wholesome addition to your culinary delights. Elevate your cooking and nourish your body with the natural essence of our Pure Cow Ghee</p>",659744_eb891ac816394d0cab442fa6c8a69e6c~mv2.jpg,,,New Arrival,450.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_c91c1d02-02e0-ed57-55d0-19e5196db02b,Product,Aaroha Natural Pure Cow Ghee,"<p>Experience the goodness of our Natural Pure Cow Ghee, a golden elixir of purity and flavor. Crafted from the finest quality cow's milk, our ghee is a testament to traditional excellence. Its rich, nutty aroma and smooth texture make it a versatile and wholesome addition to your culinary delights. Elevate your cooking and nourish your body with the natural essence of our Pure Cow Ghee</p>",659744_369f6f11366b413abf613fd8d0a08def~mv2.jpg,,,New Arrival,860.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",,,,,,,,,,,,,,,
+product_7128f247-0548-bd89-17ca-0f686728bdf9,Product,Natural Forest honey,"<p>Discover the pure essence of nature with our Natural Forest Honey. Sourced from pristine forests, this honey embodies the rich flavors and unique characteristics of the wild. Indulge in the authentic taste of nature, untouched and unprocessed, with every spoonful of our Natural Forest Honey.</p>",659744_eedf66f8a26c471aa9402236e1e808bb~mv2.jpeg,,,,130.0,,true,PERCENT,0.0,InStock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_df19c1f7-07d8-a265-42f8-e8dfa824cc6e,Product,Aaroha Pure Virgin Coconut Oil,"<p>Unlock the secret to radiant beauty and holistic well-being with our Aaroha Ayurveda Pure Virgin Coconut Oil. Sourced directly from the heart of pristine forests and harvested by indigenous communities, our coconut oil is a testament to the purest form of nature's bounty.</p>",659744_f41b39d2c21a4664bf7e241b1aed7da4~mv2.jpeg,,364215376135191,New Arrival,230.0,,true,PERCENT,0.0,0,,,,,,,,,,,,,,,,,,,,,🌿 Wild-Harvested,"<p>We believe in the power of untouched nature. Our coconut oil is sourced directly from forest communities, ensuring a wild-harvested quality that preserves the essence of the coconut in its purest state.</p>
+",RETURN & REFUND POLICY,"<p>At Aaroha Ayurveda, our goal is to ensure your complete satisfaction with your purchase. If, for any reason, you are not satisfied with your order, we are here to help. Please review our return and refund policy below.</p>
+
+<p><strong>Returns</strong></p>
+
+<p>We accept returns within 7 days from the date of delivery. To be eligible for a return, your item must be unused, in the same condition that you received it, and in the original packaging. To initiate a return, please contact our customer service team at aarohaayurveda@gmail.com with your order number and details about the product you would like to return.</p>
+
+<p><strong>Refunds</strong></p>
+
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If approved, your refund will be processed, and a credit will automatically be applied to your original method of payment within 5 days.</p>
+
+<p><strong>Exchanges</strong></p>
+
+<p>If you receive a defective or damaged item, we will be happy to exchange it for you. Please contact us at aarohaayurveda@gmail.com with your order number and details about the issue, and we will guide you through the exchange process.</p>
+
+<p><strong>Shipping</strong></p>
+
+<p>To return your product, please mail it to Aaroha Ayurveda, .You will be responsible for paying your shipping costs for returning your item. Shipping costs are non-refundable.</p>
+
+<p><strong>Cancellations</strong></p>
+
+<p>If you wish to cancel your order, please contact us within 24 hours of placing your order. Once your order has been processed and shipped, it cannot be canceled.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions about our return and refund policy, please contact us at aarohaayurveda@gmail.com</p>
+",SHIPPING INFO,"<p>At Aaroha Ayurveda, we strive to ensure that your orders are processed and delivered to you in a timely and efficient manner. Please review our shipping policy below for information on shipping methods, delivery times, and related details.</p>
+
+<p><strong>Order Processing</strong></p>
+
+<p>Orders are typically processed within 1 business days from the date of purchase. Processing times may vary based on product availability and order volume. You will receive a confirmation email with tracking information once your order has been shipped.</p>
+
+<p><strong>Shipping Methods</strong></p>
+
+<p>We offer several shipping options to cater to your needs. The available shipping methods and estimated delivery times are as follows:</p>
+
+<ul>
+	<li><strong>Standard Shipping:</strong> [X] to [Y] business days</li>
+	<li><strong>Express Shipping:</strong> [A] to [B] business days</li>
+	<li><strong>International Shipping:</strong> Delivery times may vary based on the destination.</li>
+</ul>
+
+<p><strong>Shipping Rates</strong></p>
+
+<p>Shipping rates are calculated based on the weight of your order and the shipping method selected. You can view the shipping costs for your order during the checkout process before completing your purchase.</p>
+
+<p><strong>International Shipping</strong></p>
+
+<p>For international orders, please note that customs fees, taxes, and duties may apply. These fees are the responsibility of the customer and are not included in the shipping cost. Please check with your local customs office for more information on potential charges.</p>
+
+<p><strong>Order Tracking</strong></p>
+
+<p>Once your order has been shipped, you will receive a confirmation email with a tracking number. You can use this tracking number to monitor the status and location of your package.</p>
+
+<p><strong>Shipping Restrictions</strong></p>
+
+<p>Some products may have shipping restrictions based on local regulations. Please review the product information and shipping restrictions before placing your order.</p>
+
+<p><strong>Contact Information</strong></p>
+
+<p>If you have any questions or concerns regarding your order or our shipping policy, please contact our customer service team at aarohaayurveda@gmail.com.</p>
+",💧 Cold-Pressed Perfection,"<p>Experience the benefits of cold-pressed extraction, a process that retains the oil's natural goodness. This method ensures that every drop is rich in nutrients, antioxidants, and the unmistakable aroma of fresh coconuts.</p>
+",🌱 Chemical-Free Assurance:,"<p>Aaroha Ayurveda Pure Virgin Coconut Oil is free from additives, preservatives, and harmful chemicals. We are committed to providing you with a product that is as close to nature as possible.</p>
+",🌏 Ethical Sourcing,"<p>We believe in responsible and ethical sourcing practices. By directly engaging with forest communities, we not only bring you a superior product but also support sustainable livelihoods and environmental conservation.</p>
+",,,,,,,
+product_cd59cd36-b6d2-2cf3-9d48-81793a7bdbbd,Product,Black Frankincense,"<p>Introducing Black Frankincense Premium Quality – an exquisite resin sourced from select Boswellia trees. Meticulously harvested for its rich, dark tears, this rare frankincense offers a captivating blend of earthy, balsamic notes with a hint of citrus. Perfect for meditation and creating a serene ambiance, experience the opulence and sacredness of this exceptional fragrance</p>",659744_b53b23afb28444b9b769cb6fbc602294~mv2.webp,,364215375135191,,120.0,,true,PERCENT,0.0,InStock,,,Color,COLOR,"rgb(255, 255, 255):White;#CAB4E7:Purple",,,,,,,,,,,,,,,,PRODUCT INFO,"I'm a product detail. I'm a great place to add more information about your product such as sizing, material, care and cleaning instructions. This is also a great space to write what makes this product special and how your customers can benefit from this item.",RETURN & REFUND POLICY,I’m a Return and Refund policy. I’m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.,SHIPPING INFO,"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence.",,,,,,,,,,,,,
