@@ -18,6 +18,32 @@
     <link rel="stylesheet" href="css/core-style.css">
     <link rel="stylesheet" href="style.css">
 
+     <!-- Add Instamojo JavaScript library -->
+     <script src="https://js.instamojo.com/v2"></script>
+     <!-- Add your custom JavaScript for payment processing -->
+    <script>
+        function processPayment() {
+            // Collect form data
+            const formData = new FormData(document.getElementById('checkoutForm'));
+
+            // Send data to Instamojo API
+            Instamojo.open('https://www.instamojo.com/api/1.1/payment-requests/', {
+                method: 'POST',
+                data: {
+                    purpose: formData.get('product_name'), // Change to match your form field
+                    amount: formData.get('amount'), // Change to match your form field
+                    buyer_name: formData.get('buyer_name'), // Change to match your form field
+                    // Include other required details
+                },
+                onSuccess: function(response) {
+                    alert('Payment successful! Payment ID: ' + response.payment_request.id);
+                },
+                onFailure: function(error) {
+                    alert('Payment failed: ' + error);
+                }
+            });
+        }
+    </script>
 </head>
 
 <body>
@@ -321,6 +347,17 @@
     <!-- Active js -->
     <script src="js/active.js"></script>
 
+     <!-- Modify your checkout form -->
+     <form id="checkoutForm">
+        <!-- Include other checkout fields -->
+        <input type="hidden" name="product_name" value="Natural Stingless Bee Honey">
+        <input type="hidden" name="amount" value="400">
+        <input type="hidden" name="buyer_name" placeholder="Your Name">
+        <!-- Include other necessary form fields -->
+
+        <button type="button" onclick="processPayment()">Proceed to Payment</button>
+    </form>
+    
 </body>
 
 </html>
